@@ -5,6 +5,6 @@
 - 📖 [**zhang-qilin's blog**](#)
 - 📖 [**zhang-qilin's CSDN**](#)
 - 📖 [**zhang-qilin's 知乎**](#)
-- ❤  Program language: Go、PHP、Vue、 Rust 
+- ❤  Program language: Go、Python 
 
 <img src="https://github-profile-trophy.vercel.app/?username=zhang-qilin&theme=flat" alt="logo" height="120" align="center" style="margin: auto; margin-bottom: 20px;" />
