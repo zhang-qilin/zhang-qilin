@@ -2,7 +2,7 @@
 
 ## Author is jeffcail 👋
 - 🎓 CSU(master's degree)
-- 📖 [**zhang-qilin's blog**](#)
+- 📖 [**zhang-qilin's Gitee**](https://gitee.com/zhang-qilin-0522)
 - 📖 [**zhang-qilin's CSDN**](#)
 - 📖 [**zhang-qilin's 知乎**](#)
 - ❤  Program language: Go、Python 
